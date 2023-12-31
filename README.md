@@ -5,28 +5,28 @@
 
     **1.** Create a _[customer performance report](https://github.com/kuchbhiarnav/AtliQ-Harware-Excel-Reports/blob/c880827939f01253dff4ef08bdbff147d36e681d/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kuchbhiarnav/AtliQ-Harware-Excel-Reports/blob/fcb2f45c221301514791cfcbb5a27e66514a6fc5/Market%20Performance%20vs%20Target%20Report.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empowering businesses to monitor and assess sales activities and performance effectively.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Significance of Analyzing Sales Data:** Uncovering sales patterns and tracking key performance indicators (KPIs).
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Assessing customer discounts, streamlining negotiations with consumers, and pinpointing potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/kuchbhiarnav/AtliQ-Harware-Excel-Reports/blob/fcb2f45c221301514791cfcbb5a27e66514a6fc5/P%20%26%20L%20Year-wise%20Report.pdf)_ & _[Months](https://github.com/kuchbhiarnav/AtliQ-Harware-Excel-Reports/blob/fcb2f45c221301514791cfcbb5a27e66514a6fc5/P%20%26%20L%20Month-wise%20Report.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kuchbhiarnav/AtliQ-Harware-Excel-Reports/blob/fcb2f45c221301514791cfcbb5a27e66514a6fc5/Market%20Performance%20vs%20Target%20Report.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of sales analytics:** Assessing financial performance, guiding decision-making, and enhancing communication with stakeholders.
+  
+- **Significance of Finance Data Analysis:** Assisting in benchmarking against industry peers and historical periods, serving as the foundation for budgeting and forecasting.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Aligning financial planning with strategic goals and instilling confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
