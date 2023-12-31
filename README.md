@@ -1,5 +1,15 @@
-## Sales Report :
+## Table of content
+- Overview
+- Sales Report
+- Finance Report
+- Technical Skills
+- Soft Skills
+- Credits
 
+## Overview
+AtliQ Hardware, a fictional company specializing in the production of various computer components and accessories such as batteries, processors, and personal desktops, requires comprehensive Sales and Financial reports. These reports, crafted using Excel, Power Pivot, and Power Query, aim to provide data-driven insights and facilitate informed decision-making by analyzing profit and loss statements along with sales data. The resulting Excel reports will be presented to stakeholders for a thorough understanding of the organization's performance.
+
+## Sales Report :
 
 - **Project objective:** 
 
@@ -29,7 +39,7 @@
 - **Role of reports:** Aligning financial planning with strategic goals and instilling confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficient in implementing ETL methodology (Extract, Transform, Load).
 - [x]	Capable of generating date tables efficiently using Power Query.
 - [x]	Ability to derive fiscal months and quarters for accurate reporting.
@@ -42,3 +52,7 @@
 - [x]	Designing user-centric reports with a focus on empathy and user experience.
 - [x]	Optimizing report generation through meticulous fine-tuning and performance enhancements.
 - [x]	Developing a systematic and strategic approach to the planning and execution of report-building processes.
+
+## Credits
+The dataset is taken from Codebasics Excel: Mother of Business Intelligence Course. Thanks to [Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) and [Hemanand Vadivel](https://www.linkedin.com/in/dhavalsays/) for coming up with this amazing project. Do check out the course  
+https://codebasics.io/courses/excel-mother-of-business-intelligence
